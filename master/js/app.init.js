@@ -29,7 +29,7 @@
     $('#chk-hover').prop('checked', $body.hasClass('aside-hover') );
 
     // When ready display the offsidebar
-    $('.offsidebar.hide').removeClass('hide');      
+    $('.offsidebar.hide').removeClass('hide');  
 
   }); // doc ready
 
